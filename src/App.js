@@ -4,7 +4,7 @@ import ImageComp from "./Image";
 function App() {
   return (
     <div className="App">
-      hello
+      hello there
       <ImageComp />
     </div>
   );
